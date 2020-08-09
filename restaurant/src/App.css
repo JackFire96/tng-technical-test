@@ -1,0 +1,11 @@
+.App {
+}
+
+.navbar {
+  display: flex;
+
+}
+
+.item{
+  margin: 10px;
+}
